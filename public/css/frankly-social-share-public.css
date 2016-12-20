@@ -1,0 +1,37 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+ .social-share {
+	position: relative;
+	margin-top: 20px;
+}
+.social-share ul {
+	list-style: none;
+	padding: 0px;
+	margin: 0px -7px;
+}
+
+.social-share ul li {
+	list-style: none;
+	display: inline-block;
+	margin: 0px 2px;
+}
+
+.social-share a {
+	display: block;
+	padding: 5px;
+	display: inline-block;
+	position: relative;
+	background-size: 20px !important;
+}
+
+.social-share .fa {
+	font-size: 18px;
+}
+
+.facebook .fa{color: #3b5999;}
+.tweet .fa{color: #55acee;}
+.emailicon .fa{color: #333;}
+.linkedin .fa{color: #0077B5;}
