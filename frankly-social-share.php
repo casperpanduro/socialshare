@@ -14,7 +14,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Frankly Social+
- * Plugin URI:        http://frankly.dk
+ * Plugin URI:        https://github.com/casperpanduro/socialshare.git
  * Description:       Frankly SocialShare is a privated owned plugin - only to be used by Frankly A/S and Frankly customers.
  * Version:           1.0.0
  * Author:            Frankly A/S
